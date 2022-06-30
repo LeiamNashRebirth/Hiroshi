@@ -4,6 +4,13 @@ Data Base ver 0.1
 <br> <br> <br> Bot support for chess game program, this database can make a move and think like a human on chess game
 <Br>
 
+Here's the preview <br>
+- [ ] [how Hiroshi's program works](https://leiamnashrebirth.github.io/Hiroshi/) 
+<Br> 
+
+> if you're using a phone or tablet just use you to fingers and zoom it out to view the whole screen
+<Br> 
+
 This version 0.1 is fully publish this bot have an 100 IQ and have an speed for attacking, no delay input on the program
 <Br>
 
